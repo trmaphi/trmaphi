@@ -15,3 +15,9 @@ Building high-performance systems for trading, data processing, AI, and DeFi. Fu
 | Kubernetes | Data Pipelines | React |
 | AWS | Strategy Dev | Python |
 | GCP | | |
+
+## Current Focus
+
+- High-frequency trading systems and algorithmic strategy development
+- AI-powered data pipelines and real-time processing infrastructure
+- Open-source tooling for developer productivity

@@ -21,3 +21,7 @@ Building high-performance systems for trading, data processing, AI, and DeFi. Fu
 - High-frequency trading systems and algorithmic strategy development
 - AI-powered data pipelines and real-time processing infrastructure
 - Open-source tooling for developer productivity
+
+## Contact
+
+[Email](mailto:me@trmaphi.work) · [Twitter/X](https://x.com/trmaphi)

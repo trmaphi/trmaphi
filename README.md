@@ -1,27 +1,37 @@
 # Hey, I'm Truong 👋
 
-Large-scale distributed systems · High concurrency & HA · HFT, Data & AI · Python, Go, TypeScript, Rust
+**Distributed Systems Engineer | High-Concurrency & AI Architect**
 
-## About
+I specialize in building resilient, high-performance systems where scale and speed are non-negotiable. My expertise sits at the intersection of **Application layer microservices**, **Cloud-native infrastructure**, and **AI-driven trading intelligence**.
 
-Building high-performance systems for trading, data processing, AI, and DeFi. Full-stack web development background with experience shipping production applications. Open-source contributor with a keen interest in AI, decentralized finance, and large-scale infrastructure.
+---
 
-## Tech Stack
+### 🚀 Selected Ventures
 
-| Systems | Data & Trading | Web |
-| ------- | -------------- | ---------- |
-| Python | Python | TypeScript |
-| Go | Freqtrade | Node.js |
-| Kubernetes | Data Pipelines | React |
-| AWS | Strategy Dev | Python |
-| GCP | | |
+I’ve had the opportunity to architect, build, and scale several production-grade platforms across the DeFi, AI, and Enterprise Cloud sectors:
 
-## Current Focus
+* **Trading & AI:** Currently engineering AI-powered HFT agents at [Superior Trade](https://www.superior.trade/) (formerly [Superior Agents](https://www.superioragents.com/)).
+* **Cloud & Enterprise:** Developed [Deca Cloud](https://deca.cloud/), an **AI-powered CRM Cloud** platform designed for intelligent business automation and high-availability operations.
+* **Infrastructure & Data:** Architected data-heavy systems for [Web3Go](https://github.com/web3go-xyz) and [Octan Network](https://app.octan.network/).
+* **DeFi & Identity:** Developed liquidity and identity solutions including [BrownFi](https://brownfi.io/), [CryptoBadge](https://cryptobadge.xyz/), and [Canpass](https://canpass.me/about).
 
-- High-frequency trading systems and algorithmic strategy development
-- AI-powered data pipelines and real-time processing infrastructure
-- Open-source tooling for developer productivity
+---
 
-## Contact
+### 🛠 Tech Stack
+
+| Domain | Core Tools |
+| :--- | :--- |
+| **Systems & Infrastructure** | Go, Kubernetes, AWS, GCP, Docker |
+| **Data & AI** | Python, LangChain, LLM Orchestration, Vector DBs |
+| **Quantitative Trading** | Freqtrade, Hummingbot, Strategy Development, HFT Execution |
+| **Web Engineering** | TypeScript, Node.js, React, FastAPI |
+
+---
+
+### 💡 Current Focus
+
+My primary interest right now is **Algorithmic Strategy Development**—specifically leveraging LLMs to automate and optimize decision-making in high-frequency trading environments. I’m an active open-source contributor and always looking to push the boundaries of large-scale infrastructure.
+
+### 📬 Contact
 
 [Email](mailto:me@trmaphi.work) · [Twitter/X](https://x.com/trmaphi)

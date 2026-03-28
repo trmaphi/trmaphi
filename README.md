@@ -9,7 +9,7 @@ Building high-performance systems for trading, data processing, AI, and DeFi. Fu
 ## Tech Stack
 
 | Systems | Data & Trading | Web |
-|---------|----------------|-----|
+| ------- | -------------- | ---------- |
 | Python | Python | TypeScript |
 | Go | Freqtrade | Node.js |
 | Kubernetes | Data Pipelines | React |

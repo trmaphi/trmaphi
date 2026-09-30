@@ -10,8 +10,8 @@ I specialize in building resilient, high-performance systems where scale and spe
 
 I’ve had the opportunity to architect, build, and scale several production-grade platforms across the DeFi, AI, and Enterprise Cloud sectors:
 
-* **Trading & AI:** Engineering AI-powered HFT agents at [Superior Trade](https://www.superior.trade/) (formerly [Superior Agents](https://www.superioragents.com/)).
 * **Cloud & Enterprise:** Developed [Deca Cloud](https://deca.cloud/), an **AI-powered CRM Cloud** platform designed for intelligent business automation and high-availability operations.
+* **Trading & AI:** Engineering AI-powered HFT agents at [Superior Trade](https://www.superior.trade/) (formerly [Superior Agents](https://www.superioragents.com/)).
 * **Infrastructure & Data:** Architected data-heavy systems for [Web3Go](https://github.com/web3go-xyz) and [Octan Network](https://app.octan.network/).
 * **DeFi & Identity:** Developed liquidity and identity solutions including [BrownFi](https://brownfi.io/), [CryptoBadge](https://cryptobadge.xyz/), and [Canpass](https://canpass.me/about).
 

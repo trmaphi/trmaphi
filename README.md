@@ -8,7 +8,7 @@ I specialize in building resilient, high-performance systems where scale and spe
 
 ### 🚀 Selected Ventures
 
-I’ve had the opportunity to architect, build, and scale several production-grade platforms across the DeFi, AI, and Enterprise Cloud sectors:
+My work centers on architecting, building, and scaling AI-powered platforms, combining LLM orchestration, intelligent automation, and cloud-native infrastructure for enterprise and DeFi applications:
 
 * **Cloud & Enterprise:** Developed [Deca Cloud](https://deca.cloud/), an **AI-powered CRM Cloud** platform designed for intelligent business automation and high-availability operations.
 * **Infrastructure & Data:** Architected data-heavy systems for [Octan Network](https://app.octan.network/).
